@@ -16,8 +16,8 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://user-images.githubusercontent.com/1423657/103484898-901a5000-4df2-11eb-9c19-fab32e5bd96c.png
+  name: Meething
   introTitle: "**Meething Uptime**"
   introMessage: Status for Meething Services & Servers
   navbar:
