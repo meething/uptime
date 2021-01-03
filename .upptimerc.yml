@@ -17,7 +17,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Meething Uptime**"
-  introMessage: **real-time** data for Meething Services & Servers
+  introMessage: Status for Meething Services & Servers
   navbar:
     - title: Status
       href: /
