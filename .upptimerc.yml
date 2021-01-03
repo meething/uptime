@@ -22,9 +22,11 @@ status-website:
   introMessage: Status for Meething Services & Servers
   navbar:
     - title: Status
-      href: /
+      href: /uptime
     - title: GitHub
       href: https://github.com/$OWNER
+    - title: Meething
+      href: https://meething.space
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
