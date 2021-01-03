@@ -4,11 +4,17 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: EU Meething
-    url: https://eu.meething.space
+  - name: Meething Site
+    url: https://meething.space
   - name: US Meething
     url: https://us.meething.space
-
+  - name: EU Meething
+    url: https://eu.meething.space
+  - name: US SFU Meething
+    url: http://us.meething.space:2345
+  - name: EU SFU Meething
+    url: http://eu.meething.space:2345
+    
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
