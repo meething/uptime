@@ -26,7 +26,7 @@
     "url": "https://us.meething.space",
     "icon": "https://favicons.githubusercontent.com/us.meething.space",
     "slug": "us-meething",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 293,
     "timeMonth": 296,
     "timeYear": 272,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-04": 0
+    }
   },
   {
     "name": "EU Meething",
