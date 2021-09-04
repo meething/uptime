@@ -26,19 +26,19 @@
     "url": "https://us.meething.space",
     "icon": "https://favicons.githubusercontent.com/us.meething.space",
     "slug": "us-meething",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 272,
-    "timeDay": 436,
-    "timeWeek": 293,
-    "timeMonth": 296,
+    "timeDay": 332,
+    "timeWeek": 285,
+    "timeMonth": 294,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2021-09-04": 0
+      "2021-09-04": 31
     }
   },
   {
