@@ -4,7 +4,7 @@
     "url": "https://meething.space",
     "icon": "https://favicons.githubusercontent.com/meething.space",
     "slug": "meething-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 312,
     "timeYear": 302,
     "dailyMinutesDown": {
+      "2021-12-19": 0,
       "2021-03-25": 264
     }
   },
