@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 301,
-    "timeDay": 159,
-    "timeWeek": 669,
-    "timeMonth": 335,
+    "timeDay": 176,
+    "timeWeek": 641,
+    "timeMonth": 337,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2021-03-25": 264
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 283,
-    "timeDay": 366,
-    "timeWeek": 304,
-    "timeMonth": 324,
-    "timeYear": 281,
+    "timeDay": 443,
+    "timeWeek": 362,
+    "timeMonth": 326,
+    "timeYear": 282,
     "dailyMinutesDown": {
       "2021-09-04": 31
     }
@@ -45,15 +45,15 @@
     "icon": "https://favicons.githubusercontent.com/eu.meething.space",
     "slug": "eu-meething",
     "status": "up",
-    "uptime": "97.44%",
+    "uptime": "97.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.29%",
-    "time": 556,
-    "timeDay": 683,
-    "timeWeek": 576,
-    "timeMonth": 612,
+    "time": 557,
+    "timeDay": 666,
+    "timeWeek": 619,
+    "timeMonth": 611,
     "timeYear": 556,
     "dailyMinutesDown": {
       "2021-10-22": 1174,
