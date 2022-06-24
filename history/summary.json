@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 205,
-    "timeWeek": 295,
-    "timeMonth": 351,
-    "timeYear": 299,
+    "timeDay": 228,
+    "timeWeek": 272,
+    "timeMonth": 345,
+    "timeYear": 300,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.92%",
     "time": 275,
-    "timeDay": 226,
-    "timeWeek": 166,
-    "timeMonth": 183,
+    "timeDay": 326,
+    "timeWeek": 157,
+    "timeMonth": 192,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2022-06-14": 138,
@@ -46,15 +46,15 @@
     "icon": "https://favicons.githubusercontent.com/eu.meething.space",
     "slug": "eu-meething",
     "status": "up",
-    "uptime": "98.12%",
+    "uptime": "98.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.42%",
+    "uptimeYear": "97.69%",
     "time": 553,
-    "timeDay": 500,
-    "timeWeek": 439,
-    "timeMonth": 519,
+    "timeDay": 546,
+    "timeWeek": 426,
+    "timeMonth": 524,
     "timeYear": 565,
     "dailyMinutesDown": {
       "2022-04-18": 44,
@@ -69,8 +69,7 @@
       "2021-06-28": 1440,
       "2021-06-27": 1440,
       "2021-06-26": 1440,
-      "2021-06-25": 1440,
-      "2021-06-24": 1440
+      "2021-06-25": 1440
     }
   }
 ]
