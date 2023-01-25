@@ -50,9 +50,9 @@
     "url": "https://eu.meething.space",
     "icon": "https://favicons.githubusercontent.com/eu.meething.space",
     "slug": "eu-meething",
-    "status": "up",
+    "status": "down",
     "uptime": "98.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -62,6 +62,7 @@
     "timeMonth": 510,
     "timeYear": 536,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-04-18": 44,
       "2022-03-23": 41,
       "2022-02-18": 91
